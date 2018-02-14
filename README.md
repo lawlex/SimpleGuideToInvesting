@@ -1067,6 +1067,6 @@ Apple до сих пор продолжает расти, но она вряд �
 ----------
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTk2OTAzMiwxMDcyNDcwMjcsMTE5Mz
-IzMzM0Nl19
+eyJoaXN0b3J5IjpbMTgyMDYyNDM1NiwtMzExOTY5MDMyLDEwNz
+I0NzAyNywxMTkzMjMzMzQ2XX0=
 -->

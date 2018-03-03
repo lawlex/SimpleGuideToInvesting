@@ -1,1 +1,1 @@
-Price-Earnings Ratio - P/E Ratio
+- [Цена к Прибыли (Price-Earnings Ratio - P/E Ratio)](/terms/peratio.md)

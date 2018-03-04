@@ -2,87 +2,87 @@
 Всё, что необходимо знать, чтобы начать инвестировать на американском фондовом рынке.
 
 ## СОДЕРЖАНИЕ
-[1. Зачем покупать акции?](#zachempokupataktsii)
+**[1. Зачем покупать акции?](#zachempokupataktsii)**
 
-[2. Финансовые цели](#finansovietseli)
+**[2. Финансовые цели](#finansovietseli)**
 
-[3. Волшебство реинвестирования](#volshebstvoreinvestirovaniya)
+**[3. Волшебство реинвестирования](#volshebstvoreinvestirovaniya)**
 
-[4. Плати себе первому](#platisebepervomu)
+**[4. Плати себе первому](#platisebepervomu)**
 
-[5. Три шага к накоплению](#trishagaknakopleniu)
+**[5. Три шага к накоплению](#trishagaknakopleniu)**
 
-[6. Время](#vremya)
+**[6. Время](#vremya)**
 
-[7. Что такое акция?](#chtotakoeaktsiya)
+**[7. Что такое акция?](#chtotakoeaktsiya)**
 
-[8. Тикер](#tiker)
+**[8. Тикер](#tiker)**
 
-[9. Публичное размещение](#publichnoerazmeschenie)
+**[9. Публичное размещение](#publichnoerazmeschenie)**
 
-[10. Фондовые биржи](#fondoviebirzhi)
+**[10. Фондовые биржи](#fondoviebirzhi)**
 
-[11. S&P 500](#sp500)
+**[11. S&P 500](#sp500)**
 
-[12. Акции американских компаний](#aktsiiamerikanskihkompaniy)
+**[12. Акции американских компаний](#aktsiiamerikanskihkompaniy)**
 
-[13. Размер компании](#razmerkompanii)
+**[13. Размер компании](#razmerkompanii)**
 
-[14. Дешевые акции](#deshevie)
+**[14. Дешевые акции](#deshevie)**
 
-[15. Дивиденды](#dividendy)
+**[15. Дивиденды](#dividendy)**
 
-[16. Дробление акций](#droblenieaktsiy)
+**[16. Дробление акций](#droblenieaktsiy)**
 
-[17. Виды приказов (ордеров)](#vidyprikaziv)
+**[17. Виды приказов (ордеров)](#vidyprikaziv)**
 
-[18. Маржа](#marzha)
+**[18. Маржа](#marzha)**
 
-[19. Короткие сделки](#korotkiesdelki)
+**[19. Короткие сделки](#korotkiesdelki)**
 
-[20. Расширенные часы](#rasshirenniechasy)
+**[20. Расширенные часы](#rasshirenniechasy)**
 
-[21. Первый взгляд](#perviyvzglyad)
+**[21. Первый взгляд](#perviyvzglyad)**
 
-[22. Корпоративная среда](#korporativndyasreda)
+**[22. Корпоративная среда](#korporativndyasreda)**
 
-[23. Дальновидные руководители](#dalnovidnyerukovoditely)
+**[23. Дальновидные руководители](#dalnovidnyerukovoditely)**
 
-[24. Конкурентное преимущество](#konkurentnoepreimuschestvo)
+**[24. Конкурентное преимущество](#konkurentnoepreimuschestvo)**
 
-[25. Сторонники](#storonniki)
+**[25. Сторонники](#storonniki)**
 
-[26. Растущая индустрия](#rastuschayaindustriya)
+**[26. Растущая индустрия](#rastuschayaindustriya)**
 
-[27. Баланс](#balans)
+**[27. Баланс](#balans)**
 
-[28. Инсайдерское владение](#insayderskjevladenie)
+**[28. Инсайдерское владение](#insayderskjevladenie)**
 
-[29. Денежный поток](#denezhniypotok)
+**[29. Денежный поток](#denezhniypotok)**
 
-[30. Денежные средства и долги](#denezhnyesredstvaidolgi)
+**[30. Денежные средства и долги](#denezhnyesredstvaidolgi)**
 
-[31. Мудрое использование средств](#mudroeispolzovaniesredstv)
+**[31. Мудрое использование средств](#mudroeispolzovaniesredstv)**
 
-[32. Рост продаж](#rostprodazh)
+**[32. Рост продаж](#rostprodazh)**
 
-[33. Первая акция](#pervayaaktsiya)
+**[33. Первая акция](#pervayaaktsiya)**
 
-[34. Диверсификация](#diversifikatsia)
+**[34. Диверсификация](#diversifikatsia)**
 
-[35. Создание портфеля](#sozdanieportfelya)
+**[35. Создание портфеля](#sozdanieportfelya)**
 
-[36. Риск против вознаграждения](#riskprotivvoznagrazhdeniya)
+**[36. Риск против вознаграждения](#riskprotivvoznagrazhdeniya)**
 
-[37. Время и характер](#vremyaicharacter)
+**[37. Время и характер](#vremyaicharacter)**
 
-[38. Избегайте ошибок](#izbegayteoshibok)
+**[38. Избегайте ошибок](#izbegayteoshibok)**
 
-[39. Когда продавать?](#kogdaprodavat)
+**[39. Когда продавать?](#kogdaprodavat)**
 
-[40. Так почему американский рынок?](#takpochemuamerikanskiyrynok)
+**[40. Так почему американский рынок?](#takpochemuamerikanskiyrynok)**
 
-[СЛОВАРЬ ФИНАНСОВЫХ ТЕРМИНОВ](/dictionary/terms.md)
+**[СЛОВАРЬ ФИНАНСОВЫХ ТЕРМИНОВ](/dictionary/terms.md)**
 
 <a name="zachempokupataktsii"></a>
 
